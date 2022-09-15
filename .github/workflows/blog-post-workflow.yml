@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "5"
-          feed_list: "https://zenn.dev/himorishige/feed"
+          feed_list: "https://zenn.dev/himorishige/feed,https://dev.classmethod.jp/author/morishige-hiroshi/feed/"
