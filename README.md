@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-### Zenn posts
+### Posts
 <!-- BLOG-POST-LIST:START -->
 - [サーバレスでフルマネージドなGraphQLサービスGrafbaseを試してみた](https://dev.classmethod.jp/articles/intro-grafbase/)
 - [サーバレスでフルマネージドなキャッシュサービスMomentoをRemixとNext.jsでためしてみた](https://dev.classmethod.jp/articles/remix-with-momento/)
