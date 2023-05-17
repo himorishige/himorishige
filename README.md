@@ -2,7 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare PagesでNext.js App Routerを使ってみる](https://zenn.dev/microcms/articles/1b4331eca6e512)
+- [Cloudflare PagesでNext.js App Routerを使ってみる](https://zenn.dev/himorishige/articles/1b4331eca6e512)
 - [Cloudflare PagesでNext.jsのEdge Runtimeがサポートされました](https://dev.classmethod.jp/articles/cloudflare-pages-support-nextjs-edge-runtime/)
 - [サーバレスでフルマネージドなGraphQLサービスGrafbaseを試してみた](https://dev.classmethod.jp/articles/intro-grafbase/)
 - [サーバレスでフルマネージドなキャッシュサービスMomentoをRemixとNext.jsでためしてみた](https://dev.classmethod.jp/articles/remix-with-momento/)
