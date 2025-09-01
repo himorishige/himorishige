@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hatago MCP Hub で始めるマルチMCP運用 - ひとつの設定で全部つながる](https://zenn.dev/himorishige/articles/introduce-hatago-mcp-hub)
 - [Windsurf 波乗りガイド: Wave 12](https://zenn.dev/himorishige/articles/windsurf-guide-wave12)
 - [Windsurf 波乗りガイド: Wave 11](https://zenn.dev/himorishige/articles/windsurf-guide-wave11)
 - [Windsurf 波乗りガイド: Wave 10](https://zenn.dev/himorishige/articles/windsurf-guide-wave10)
@@ -11,7 +12,6 @@
 - [NestJSで新規プロジェクトを作るときの備忘録](https://zenn.dev/himorishige/articles/cfd7aedacc3083)
 - [NestJSでMySQLを利用したGraphQLなAPIを構築してみる](https://zenn.dev/himorishige/articles/04ad0aeb5cc065)
 - [Next.js v11 で新規プロジェクトを作るときの備忘録](https://zenn.dev/himorishige/articles/e8746140992069)
-- [Reactでお手軽にIntersection Observerを使う](https://zenn.dev/himorishige/articles/e17b7d04fc7722)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
