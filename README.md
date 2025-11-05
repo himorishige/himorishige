@@ -2,7 +2,6 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
-- [製造ビジネステクノロジー部にRe:ジョインした森茂です](https://dev.classmethod.jp/articles/rejoined-morishige/)
 - [Hatago MCP Hub を AI-DLC の考え方で開発してみた](https://zenn.dev/himorishige/articles/hatago-with-ai-dlc)
 - [Hatago MCP Hub で始めるマルチMCP運用 - ひとつの設定で全部つながる](https://zenn.dev/himorishige/articles/introduce-hatago-mcp-hub)
 - [Windsurf 波乗りガイド: Wave 12](https://zenn.dev/himorishige/articles/windsurf-guide-wave12)
@@ -12,6 +11,7 @@
 - [React Queryを使いこなすために試したこと](https://zenn.dev/microcms/articles/76e903bc5a1aa2)
 - [Redux Toolkit の非同期処理の変遷を試してみる](https://zenn.dev/himorishige/articles/de9593a77863e8)
 - [NestJSで新規プロジェクトを作るときの備忘録](https://zenn.dev/himorishige/articles/cfd7aedacc3083)
+- [NestJSでMySQLを利用したGraphQLなAPIを構築してみる](https://zenn.dev/himorishige/articles/04ad0aeb5cc065)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
