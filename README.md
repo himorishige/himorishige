@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA DGX Sparkがやってきた](https://dev.classmethod.jp/articles/nvidia-dgx-spark-first-impressions/)
 - [Claude Codeと暮らす](https://dev.classmethod.jp/articles/claude-code-daily-workflow/)
 - [2026年のローカルLLM事情を整理してみた](https://dev.classmethod.jp/articles/local-llm-guide-2026/)
 - [Ollama v0.15 で Claude Code をローカル実行できるか試してみた](https://dev.classmethod.jp/articles/claude-code-ollama-local/)
@@ -11,7 +12,6 @@
 - [製造ビジネステクノロジー部にRe:ジョインした森茂です](https://dev.classmethod.jp/articles/rejoined-morishige/)
 - [Hatago MCP Hub を AI-DLC の考え方で開発してみた](https://zenn.dev/himorishige/articles/hatago-with-ai-dlc)
 - [Hatago MCP Hub で始めるマルチMCP運用 - ひとつの設定で全部つながる](https://zenn.dev/himorishige/articles/introduce-hatago-mcp-hub)
-- [Windsurf 波乗りガイド: Wave 12](https://zenn.dev/himorishige/articles/windsurf-guide-wave12)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
