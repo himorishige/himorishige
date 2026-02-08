@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [DGX Spark で何ができる？ 公式Playbookを整理してみた](https://dev.classmethod.jp/articles/dgx-spark-playbooks-catalog/)
 - [DGX Spark の 128GB メモリで Claude Code + Ollama のローカル実行に再挑戦してみた](https://dev.classmethod.jp/articles/dgx-spark-claude-code-local/)
 - [NVIDIA DGX Sparkがやってきた](https://dev.classmethod.jp/articles/nvidia-dgx-spark-first-impressions/)
 - [Claude Codeと暮らす](https://dev.classmethod.jp/articles/claude-code-daily-workflow/)
@@ -11,7 +12,6 @@
 - [BuriKaigi 2026で「React 19でつくる『気持ちいいUI』— 楽観的更新のすすめ」というタイトルで登壇しました](https://dev.classmethod.jp/articles/burikaigi-2026-about-optimistic-ui/)
 - [Next.jsと生成AIでスコーンづくりの技能伝承システムはじめてみました](https://dev.classmethod.jp/articles/scone-knowledge-transfer/)
 - [製造ビジネステクノロジー部にRe:ジョインした森茂です](https://dev.classmethod.jp/articles/rejoined-morishige/)
-- [Hatago MCP Hub を AI-DLC の考え方で開発してみた](https://zenn.dev/himorishige/articles/hatago-with-ai-dlc)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
