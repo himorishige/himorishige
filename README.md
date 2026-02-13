@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [DGX Spark を 2 台つないで大規模モデルの分散推論を試してみた](https://dev.classmethod.jp/articles/dgx-spark-two-node-clustering/)
 - [DGX Spark × Continue.dev で VS Code にローカルコード補完環境を構築してみた](https://dev.classmethod.jp/articles/dgx-spark-continue-dev-vscode/)
 - [DGX Spark にリモートデスクトップ環境を構築する（RustDesk + Tailscale）](https://dev.classmethod.jp/articles/dgx-spark-rustdesk-tailscale-remote-desktop/)
 - [DGX Spark で何ができる？ 公式Playbookを整理してみた](https://dev.classmethod.jp/articles/dgx-spark-playbooks-catalog/)
@@ -11,7 +12,6 @@
 - [2026年のローカルLLM事情を整理してみた](https://dev.classmethod.jp/articles/local-llm-guide-2026/)
 - [Ollama v0.15 で Claude Code をローカル実行できるか試してみた](https://dev.classmethod.jp/articles/claude-code-ollama-local/)
 - [NVIDIA Brevで実現する「どこでもローカルAI」環境](https://dev.classmethod.jp/articles/nvidia-brev-introduction/)
-- [BuriKaigi 2026で「React 19でつくる『気持ちいいUI』— 楽観的更新のすすめ」というタイトルで登壇しました](https://dev.classmethod.jp/articles/burikaigi-2026-about-optimistic-ui/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
