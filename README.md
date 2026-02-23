@@ -2,7 +2,8 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
-- [国税庁 FAQ × RAFT で Nemotron 9B の RAG 精度を上げてみた](https://dev.classmethod.jp/articles/nemotron-9b-raft-finetuning/)
+- [クラスメソッドのカルチャー CLP を Nemotron 9B-v2 に教え込んでみた](https://dev.classmethod.jp/articles/nemotron-9b-constitutional-ai-simpo/)
+- [国税庁 FAQ × RAFT で Nemotron 9B-v2 の RAG 精度を上げてみた](https://dev.classmethod.jp/articles/nemotron-9b-raft-finetuning/)
 - [Nemotron 9B-v2-Japanese を SageMaker 東京リージョンに VPC 閉域構成でデプロイしてみた](https://dev.classmethod.jp/articles/nemotron-9b-sagemaker-deploy/)
 - [NVIDIA 公式の日本語強化 LLM Nemotron 9B-v2-Japanese を色々なケースで試してみた](https://dev.classmethod.jp/articles/nemotron-9b-v2-japanese-handson/)
 - [DGX Spark の Live VLM WebUI でカメラ映像をリアルタイム解析してみた](https://dev.classmethod.jp/articles/dgx-spark-live-vlm-recamera/)
@@ -11,7 +12,6 @@
 - [DGX Spark × Continue.dev で VS Code にローカルコード補完環境を構築してみた](https://dev.classmethod.jp/articles/dgx-spark-continue-dev-vscode/)
 - [DGX Spark にリモートデスクトップ環境を構築する（RustDesk + Tailscale）](https://dev.classmethod.jp/articles/dgx-spark-rustdesk-tailscale-remote-desktop/)
 - [DGX Spark で何ができる？ 公式Playbookを整理してみた](https://dev.classmethod.jp/articles/dgx-spark-playbooks-catalog/)
-- [DGX Spark の 128GB メモリで Claude Code + Ollama のローカル実行に再挑戦してみた](https://dev.classmethod.jp/articles/dgx-spark-claude-code-local/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
