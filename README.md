@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [DGX Spark でロボットアームの強化学習を試してみた（Isaac Sim + Isaac Lab + SO-ARM101）](https://dev.classmethod.jp/articles/dgx-spark-isaac-sim-so-arm101/)
 - [クラスメソッドのカルチャー CLP を Nemotron 9B-v2 に教え込んでみた](https://dev.classmethod.jp/articles/nemotron-9b-constitutional-ai-simpo/)
 - [国税庁 FAQ × RAFT で Nemotron 9B-v2 の RAG 精度を上げてみた](https://dev.classmethod.jp/articles/nemotron-9b-raft-finetuning/)
 - [Nemotron 9B-v2-Japanese を SageMaker 東京リージョンに VPC 閉域構成でデプロイしてみた](https://dev.classmethod.jp/articles/nemotron-9b-sagemaker-deploy/)
@@ -11,7 +12,6 @@
 - [DGX Spark を 2 台つないで大規模モデルの分散推論を試してみた](https://dev.classmethod.jp/articles/dgx-spark-two-node-clustering/)
 - [DGX Spark × Continue.dev で VS Code にローカルコード補完環境を構築してみた](https://dev.classmethod.jp/articles/dgx-spark-continue-dev-vscode/)
 - [DGX Spark にリモートデスクトップ環境を構築する（RustDesk + Tailscale）](https://dev.classmethod.jp/articles/dgx-spark-rustdesk-tailscale-remote-desktop/)
-- [DGX Spark で何ができる？ 公式Playbookを整理してみた](https://dev.classmethod.jp/articles/dgx-spark-playbooks-catalog/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
