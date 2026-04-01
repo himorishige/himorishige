@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [SAM 3.1 を DGX Spark で動かしてゼロショット物体検出を試してみた](https://dev.classmethod.jp/articles/dgx-spark-sam3-zero-shot-detection/)
 - [NVIDIA Cosmos-Reason2-8B を DGX Spark で PPE 検出向けにファインチューニングしてみた](https://dev.classmethod.jp/articles/dgx-spark-cosmos-reason2-vlm-finetuning/)
 - [スマホ動画から DGX Spark の 3D デジタルツインを作ってみた](https://dev.classmethod.jp/articles/dgx-spark-3dgs-digital-twin/)
 - [TurboQuant と RotorQuant を DGX Spark で試してみた](https://dev.classmethod.jp/articles/dgx-spark-turboquant-kv-cache/)
@@ -11,7 +12,6 @@
 - [NVIDIA NemoClaw で AI エージェントをエンタープライズに持ち込む（GTC 2026 現地レポート）](https://dev.classmethod.jp/articles/gtc2026-nemoclaw-preview/)
 - [NVIDIA Nemotron 3 Super を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron3-super/)
 - [VSS の Event Reviewer で映像をリアルタイム監視してみた](https://dev.classmethod.jp/articles/dgx-spark-vss-event-reviewer/)
-- [VSS 3.0.0 EA の Warehouse Blueprint を DGX Spark で試してみた](https://dev.classmethod.jp/articles/dgx-spark-vss-3-early-access/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
