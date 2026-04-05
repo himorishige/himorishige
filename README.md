@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [Karpathy 氏が言語化した「LLM Knowledge Base」というパターン](https://dev.classmethod.jp/articles/karpathy-llm-knowledge-base/)
 - [Gemma 4 を DGX Spark で動かして日本語とマルチモーダルをベンチマークしてみた](https://dev.classmethod.jp/articles/dgx-spark-gemma4-benchmark/)
 - [SAM 3.1 を DGX Spark で動かしてゼロショット物体検出を試してみた](https://dev.classmethod.jp/articles/dgx-spark-sam3-zero-shot-detection/)
 - [NVIDIA Cosmos-Reason2-8B を DGX Spark で PPE 検出向けにファインチューニングしてみた](https://dev.classmethod.jp/articles/dgx-spark-cosmos-reason2-vlm-finetuning/)
@@ -11,7 +12,6 @@
 - [GTC 2026 オンデマンドセッションから気になる 7 本をピックアップしてみた](https://dev.classmethod.jp/articles/gtc2026-ondemand-session-picks/)
 - [NVIDIA NemoClaw を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-nemoclaw-openshell-handson/)
 - [NVIDIA NemoClaw で AI エージェントをエンタープライズに持ち込む（GTC 2026 現地レポート）](https://dev.classmethod.jp/articles/gtc2026-nemoclaw-preview/)
-- [NVIDIA Nemotron 3 Super を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron3-super/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
