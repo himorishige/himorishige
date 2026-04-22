@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [Arize Phoenix で LLM アプリの観測と評価を試してみた](https://dev.classmethod.jp/articles/arize-phoenix-otel-llm-observability-handson/)
 - [NVIDIA NeMo Framework を整理してみた](https://dev.classmethod.jp/articles/dgx-spark-nvidia-nemo-framework-overview-and-index/)
 - [NeMo Agent Toolkit を DGX Spark + vLLM のローカル構成で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-nemo-agent-toolkit-local-intro/)
 - [LLM 評価基盤 NeMo Evaluator を DGX Spark で試してみた](https://dev.classmethod.jp/articles/dgx-spark-nemo-evaluator-architecture/)
@@ -11,7 +12,6 @@
 - [Gemma 4 を DGX Spark で動かして日本語とマルチモーダルをベンチマークしてみた](https://dev.classmethod.jp/articles/dgx-spark-gemma4-benchmark/)
 - [SAM 3.1 を DGX Spark で動かしてゼロショット物体検出を試してみた](https://dev.classmethod.jp/articles/dgx-spark-sam3-zero-shot-detection/)
 - [NVIDIA Cosmos-Reason2-8B を DGX Spark で PPE 検出向けにファインチューニングしてみた](https://dev.classmethod.jp/articles/dgx-spark-cosmos-reason2-vlm-finetuning/)
-- [スマホ動画から DGX Spark の 3D デジタルツインを作ってみた](https://dev.classmethod.jp/articles/dgx-spark-3dgs-digital-twin/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
