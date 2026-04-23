@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [2026 年 1~3 月のクラスメソッドグループ社員による OSS コントリビュートについてご紹介します](https://dev.classmethod.jp/articles/cm-group-oss-contributes-2026-1-3/)
 - [Arize Phoenix で LLM アプリの観測と評価を試してみた](https://dev.classmethod.jp/articles/arize-phoenix-otel-llm-observability-handson/)
 - [NVIDIA NeMo Framework を整理してみた](https://dev.classmethod.jp/articles/dgx-spark-nvidia-nemo-framework-overview-and-index/)
 - [NeMo Agent Toolkit を DGX Spark + vLLM のローカル構成で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-nemo-agent-toolkit-local-intro/)
@@ -11,7 +12,6 @@
 - [Karpathy 氏が言語化した「LLM Knowledge Base」というパターン](https://dev.classmethod.jp/articles/karpathy-llm-knowledge-base/)
 - [Gemma 4 を DGX Spark で動かして日本語とマルチモーダルをベンチマークしてみた](https://dev.classmethod.jp/articles/dgx-spark-gemma4-benchmark/)
 - [SAM 3.1 を DGX Spark で動かしてゼロショット物体検出を試してみた](https://dev.classmethod.jp/articles/dgx-spark-sam3-zero-shot-detection/)
-- [NVIDIA Cosmos-Reason2-8B を DGX Spark で PPE 検出向けにファインチューニングしてみた](https://dev.classmethod.jp/articles/dgx-spark-cosmos-reason2-vlm-finetuning/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
