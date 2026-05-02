@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [Langfuse を DGX Spark で Self-host して LLM アプリの観測と評価を試してみた](https://dev.classmethod.jp/articles/langfuse-self-host-llm-observability-handson/)
 - [NVIDIA Nemotron 3 Nano Omni を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron3-nano-omni-multimodal-launch-bench/)
 - [NeMo Agent Toolkit を入門編と実践運用編としてまとめてみた](https://dev.classmethod.jp/articles/nemo-agent-toolkit-zenn-books-overview/)
 - [NeMo Agent Toolkit 実践運用編 — Guardrails × Langfuse](https://zenn.dev/himorishige/books/nemo-agent-toolkit-production-ops)
@@ -11,7 +12,6 @@
 - [NVIDIA NeMo Framework を整理してみた](https://dev.classmethod.jp/articles/dgx-spark-nvidia-nemo-framework-overview-and-index/)
 - [NeMo Agent Toolkit を DGX Spark + vLLM のローカル構成で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-nemo-agent-toolkit-local-intro/)
 - [LLM 評価基盤 NeMo Evaluator を DGX Spark で試してみた](https://dev.classmethod.jp/articles/dgx-spark-nemo-evaluator-architecture/)
-- [NeMo Guardrails で日本語 LLM に安全装備を載せてみた](https://dev.classmethod.jp/articles/dgx-spark-nemo-guardrails-nemotron-intro/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
