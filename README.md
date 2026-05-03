@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nemotron 3 Nano Omni / Gemma 4 / Cosmos-Reason2 を日本語マルチモーダルベンチで比べてみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron3-nano-omni-japanese-multimodal-bench/)
 - [Langfuse を DGX Spark で Self-host して LLM アプリの観測と評価を試してみた](https://dev.classmethod.jp/articles/langfuse-self-host-llm-observability-handson/)
 - [NVIDIA Nemotron 3 Nano Omni を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron3-nano-omni-multimodal-launch-bench/)
 - [NeMo Agent Toolkit を入門編と実践運用編としてまとめてみた](https://dev.classmethod.jp/articles/nemo-agent-toolkit-zenn-books-overview/)
@@ -11,7 +12,6 @@
 - [Arize Phoenix で LLM アプリの観測と評価を試してみた](https://dev.classmethod.jp/articles/arize-phoenix-otel-llm-observability-handson/)
 - [NVIDIA NeMo Framework を整理してみた](https://dev.classmethod.jp/articles/dgx-spark-nvidia-nemo-framework-overview-and-index/)
 - [NeMo Agent Toolkit を DGX Spark + vLLM のローカル構成で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-nemo-agent-toolkit-local-intro/)
-- [LLM 評価基盤 NeMo Evaluator を DGX Spark で試してみた](https://dev.classmethod.jp/articles/dgx-spark-nemo-evaluator-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
