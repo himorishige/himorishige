@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nemotron-Labs-Diffusion を DGX Spark で動かして tri-mode 生成を実測してみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron-labs-diffusion-tri-mode-bench/)
 - [NVIDIA VSS + AI Agents + Skills の身近な現場での使いどころを考えてみた](https://dev.classmethod.jp/articles/dgx-spark-vss-agent-skills-everyday/)
 - [DwarfStar 4 で DeepSeek V4 Flash 284B を DGX Spark に載せてみた](https://dev.classmethod.jp/articles/dgx-spark-dwarfstar4-deepseek-v4-flash-bench/)
 - [NVIDIA VSS 3.1.0 EA とハノーバーメッセで見えた製造業 VSS の今を調べてみた](https://dev.classmethod.jp/articles/dgx-spark-vss-3-1-revisit/)
@@ -11,7 +12,6 @@
 - [Langfuse を DGX Spark で Self-host して LLM アプリの観測と評価を試してみた](https://dev.classmethod.jp/articles/langfuse-self-host-llm-observability-handson/)
 - [NVIDIA Nemotron 3 Nano Omni を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron3-nano-omni-multimodal-launch-bench/)
 - [NeMo Agent Toolkit を入門編と実践運用編としてまとめてみた](https://dev.classmethod.jp/articles/nemo-agent-toolkit-zenn-books-overview/)
-- [NeMo Agent Toolkit 実践運用編 — Guardrails × Langfuse](https://zenn.dev/himorishige/books/nemo-agent-toolkit-production-ops)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
