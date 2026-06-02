@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA Cosmos 3 ファミリーの使い分けマップを整理してみた](https://dev.classmethod.jp/articles/dgx-spark-cosmos3-family-usecase-map/)
 - [SKAB と時系列基盤モデルで産業センサーの異常検知を試してみた](https://dev.classmethod.jp/articles/dgx-spark-timeseries-fm-skab-anomaly-detection/)
 - [DGX Spark で NVIDIA Cosmos 3 を動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-cosmos3-omni-world-model-policy/)
 - [AI モデル公開前のドキュメント不足を検出する？ NVIDIA MCG Toolkit の仕組みを整理してみた](https://dev.classmethod.jp/articles/nvidia-mcg-toolkit-model-card-governance/)
@@ -11,7 +12,6 @@
 - [NVIDIA VSS + AI Agents + Skills の身近な現場での使いどころを考えてみた](https://dev.classmethod.jp/articles/dgx-spark-vss-agent-skills-everyday/)
 - [DwarfStar 4 で DeepSeek V4 Flash 284B を DGX Spark に載せてみた](https://dev.classmethod.jp/articles/dgx-spark-dwarfstar4-deepseek-v4-flash-bench/)
 - [NVIDIA VSS 3.1.0 EA とハノーバーメッセで見えた製造業 VSS の今を調べてみた](https://dev.classmethod.jp/articles/dgx-spark-vss-3-1-revisit/)
-- [Gemma 4 MTP を DGX Spark で動かして日本語生成の高速化を実測してみた](https://dev.classmethod.jp/articles/dgx-spark-gemma4-mtp-multi-token-prediction-bench/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
