@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cosmos 3 でアップデートされた NVIDIA Physical AI を工場 AI の三層構造で読み解いてみた](https://dev.classmethod.jp/articles/dgx-spark-cosmos3-physical-ai-three-layers/)
 - [Hermes Agent の self-improving をコードから読み込んでみた](https://dev.classmethod.jp/articles/hermes-agent-self-improving-code-reading/)
 - [Gemma 4 に 12B が追加されたので DGX Spark で日本語性能・音声入力・MTP まで試してみた](https://dev.classmethod.jp/articles/dgx-spark-gemma4-12b-allround/)
 - [NVIDIA Nemotron 3 Ultra を試してみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron3-ultra-nvidia-api/)
@@ -11,7 +12,6 @@
 - [DGX Spark で NVIDIA Cosmos 3 を動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-cosmos3-omni-world-model-policy/)
 - [AI モデル公開前のドキュメント不足を検出する？ NVIDIA MCG Toolkit の仕組みを整理してみた](https://dev.classmethod.jp/articles/nvidia-mcg-toolkit-model-card-governance/)
 - [Chronos-2 で PLC 風時系列データを予測し、Nemotron で保全コメントを生成してみた](https://dev.classmethod.jp/articles/dgx-spark-chronos2-plc-sim-llm-maintenance/)
-- [時系列基盤モデルを DGX Spark で動かして比べてみた](https://dev.classmethod.jp/articles/dgx-spark-timeseries-fm-3-bench/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
