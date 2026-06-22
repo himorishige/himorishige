@@ -2,6 +2,9 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [PLaMo 3.0 Prime を試してみた](https://dev.classmethod.jp/articles/plamo-3-0-prime-first-touch/)
+- [Sakana Fugu &lpar;GA&rpar; をサブスクリプションプランで試してみた](https://dev.classmethod.jp/articles/sakana-fugu-ga-first-touch/)
+- [NVIDIA VSS 3.2.0 GA を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-vss-3-2-ga-revisit/)
 - [NVIDIA LLM Router を自分のペルソナに合わせて再訓練してみた（訓練編）](https://dev.classmethod.jp/articles/dgx-spark-nvidia-llm-router-v3-training/)
 - [NVIDIA LLM Router で LLM の用途別使い分け環境を構築してみた（基礎編）](https://dev.classmethod.jp/articles/dgx-spark-nvidia-llm-router-v3/)
 - [NVIDIA OpenShell に Codex を閉じ込めて動かしてみた](https://dev.classmethod.jp/articles/codex-openshell-mac-sandbox/)
@@ -9,9 +12,6 @@
 - [NVIDIA FOX Blueprint を小さく始める Mini-FOX 構成を考えてみた](https://dev.classmethod.jp/articles/nvidia-fox-blueprint-mini-fox-structure/)
 - [NemoHermes で GitHub token を渡さずに private リポジトリを読ませてみた](https://dev.classmethod.jp/articles/nemohermes-github-provider-connection/)
 - [Cosmos 3 でアップデートされた NVIDIA Physical AI を工場 AI の三層構造で読み解いてみた](https://dev.classmethod.jp/articles/dgx-spark-cosmos3-physical-ai-three-layers/)
-- [Hermes Agent の self-improving をコードから読み込んでみた](https://dev.classmethod.jp/articles/hermes-agent-self-improving-code-reading/)
-- [Gemma 4 に 12B が追加されたので DGX Spark で日本語性能・音声入力・MTP まで試してみた](https://dev.classmethod.jp/articles/dgx-spark-gemma4-12b-allround/)
-- [NVIDIA Nemotron 3 Ultra を試してみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron3-ultra-nvidia-api/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
