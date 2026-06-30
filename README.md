@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [DGX Spark 2 台で DeepSeek V4 Flash-DSpark を動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-2node-deepseek-v4-flash-dspark/)
 - [Hermes Agent の Mixture of Agents &lpar;MoA&rpar; を試してみた](https://dev.classmethod.jp/articles/hermes-agent-moa-first-touch/)
 - [Ornith 1.0 を DGX Spark で動かして日本語性能を Gemma 4 / Nemotron と比べてみた](https://dev.classmethod.jp/articles/ornith-1-0-dgx-spark-japanese-benchmark/)
 - [OpenRouter の MCP Server を試してみた](https://dev.classmethod.jp/articles/openrouter-mcp-server-first-touch/)
@@ -11,7 +12,6 @@
 - [NVIDIA VSS 3.2.0 GA を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-vss-3-2-ga-revisit/)
 - [NVIDIA LLM Router を自分のペルソナに合わせて再訓練してみた（訓練編）](https://dev.classmethod.jp/articles/dgx-spark-nvidia-llm-router-v3-training/)
 - [NVIDIA LLM Router で LLM の用途別使い分け環境を構築してみた（基礎編）](https://dev.classmethod.jp/articles/dgx-spark-nvidia-llm-router-v3/)
-- [NVIDIA OpenShell に Codex を閉じ込めて動かしてみた](https://dev.classmethod.jp/articles/codex-openshell-mac-sandbox/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
