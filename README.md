@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gemma 4 の NVFP4 も 2 つの量子化版を DGX Spark で比べてみた](https://dev.classmethod.jp/articles/dgx-spark-gemma4-nvfp4-nvidia-vs-unsloth/)
 - [Jensen Huang CEO もサプライズ登場した Build a Claw Tokyo に参加してきました](https://dev.classmethod.jp/articles/nvidia-build-a-claw-tokyo-report/)
 - [DGX Spark のパートナー LLM に新王者？ Qwen3.6-35B-A3B-NVFP4 を 2 つの量子化版で比べてみた](https://dev.classmethod.jp/articles/dgx-spark-qwen3-6-35b-a3b-nvfp4-new-champion/)
 - [DGX Spark 1 台をパートナーにする LLM 構成を考えてみた](https://dev.classmethod.jp/articles/dgx-spark-single-node-best-llm-qwen3-6-27b-nvfp4/)
@@ -11,7 +12,6 @@
 - [DGX Spark 2 台で DeepSeek V4 Flash-DSpark を動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-2node-deepseek-v4-flash-dspark/)
 - [Hermes Agent の Mixture of Agents &lpar;MoA&rpar; を試してみた](https://dev.classmethod.jp/articles/hermes-agent-moa-first-touch/)
 - [Ornith 1.0 を DGX Spark で動かして日本語性能を Gemma 4 / Nemotron と比べてみた](https://dev.classmethod.jp/articles/ornith-1-0-dgx-spark-japanese-benchmark/)
-- [OpenRouter の MCP Server を試してみた](https://dev.classmethod.jp/articles/openrouter-mcp-server-first-touch/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
