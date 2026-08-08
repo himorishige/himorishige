@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [オープンウェイトモデルで開発からビジネス利用まで回すチーム AI 環境](https://dev.classmethod.jp/articles/open-weight-team-ai-environment/)
 - [NVIDIA RAG Blueprint × DGX Spark でチーム共通 RAG を組んで MCP でつないでみた](https://dev.classmethod.jp/articles/dgx-spark-nvidia-rag-blueprint-mcp/)
 - [DGX Spark 1 台で 2.8T の Kimi K3 を動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-pulsar-ssd-expert-streaming/)
 - [NVIDIA Japan の NPN Partner Model Customization Bootcamp に参加してきました](https://dev.classmethod.jp/articles/nvidia-npn-model-customization-bootcamp-report/)
@@ -11,7 +12,6 @@
 - [118B コード特化 MoE 「Laguna S 2.1」 を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-laguna-s-2-1-nvfp4/)
 - [Gemma 4 の NVFP4 も 2 つの量子化版を DGX Spark で比べてみた](https://dev.classmethod.jp/articles/dgx-spark-gemma4-nvfp4-nvidia-vs-unsloth/)
 - [Jensen Huang CEO もサプライズ登場した Build a Claw Tokyo に参加してきました](https://dev.classmethod.jp/articles/nvidia-build-a-claw-tokyo-report/)
-- [DGX Spark のパートナー LLM に新王者？ Qwen3.6-35B-A3B-NVFP4 を 2 つの量子化版で比べてみた](https://dev.classmethod.jp/articles/dgx-spark-qwen3-6-35b-a3b-nvfp4-new-champion/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
