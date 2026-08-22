@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA NeMo Switchyard の prefill router の仕組みについて調べてみた](https://dev.classmethod.jp/articles/dgx-spark-switchyard-prefill-router-vs-judge/)
 - [NVIDIA の新エージェントフレームワーク NOOA を DGX Spark のローカル LLM で試してみた](https://dev.classmethod.jp/articles/nvidia-nooa-local-llm-capability/)
 - [Pi coding agent を Switchyard につないで開発環境を組んでみた](https://dev.classmethod.jp/articles/pi-switchyard-open-weight-coding-agent-environment/)
 - [Nemotron 3.5 Lightning を LoRA 事後学習で LLM ルーターの判定役に仕立ててみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron-lightning-switchyard-classifier-finetune/)
@@ -11,7 +12,6 @@
 - [Meta のオープンウェイト Muse Glimmer 30B を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-muse-glimmer-first-touch/)
 - [284B の DeepSeek V4 Flash-0731 を DGX Spark 2 台で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-2node-deepseek-v4-flash-0731/)
 - [オープンウェイトモデルで開発からビジネス利用まで回すチーム AI 環境](https://dev.classmethod.jp/articles/open-weight-team-ai-environment/)
-- [NVIDIA RAG Blueprint × DGX Spark でチーム共通 RAG を組んで MCP でつないでみた](https://dev.classmethod.jp/articles/dgx-spark-nvidia-rag-blueprint-mcp/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
