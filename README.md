@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [320B の GLM-5.3-Flash を DGX Spark 1 台で動かして実用の分かれ目を測ってみた](https://dev.classmethod.jp/articles/dgx-spark-glm-5-3-flash-first-touch/)
 - [チームで coding agent を使うための AI Gateway とルーターの理想形を考えてみた](https://dev.classmethod.jp/articles/coding-agent-team-ai-gateway-ideal/)
 - [NVIDIA NeMo Relay と NeMo Switchyard を AI Gateway としてどう使うか考えてみた](https://dev.classmethod.jp/articles/nemo-relay-switchyard-ai-gateway/)
 - [NVIDIA NeMo Switchyard の prefill router の仕組みについて調べてみた](https://dev.classmethod.jp/articles/dgx-spark-switchyard-prefill-router-vs-judge/)
@@ -11,7 +12,6 @@
 - [NVIDIA Nemotron 3.5 Lightning 30B-A3B-NVFP4 を試してみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron-3-5-lightning-first-touch/)
 - [Rust に生まれ変わった NeMo Switchyard v0.2.0 を試してみた](https://dev.classmethod.jp/articles/nvidia-nemo-switchyard-v020-rust-first-touch/)
 - [vision 非対応の DeepSeek V4 Flash に Qwen-MM-Plugins で目と耳を付けてみた](https://dev.classmethod.jp/articles/deepseek-v4-flash-qwen-mm-plugins-omni/)
-- [Meta のオープンウェイト Muse Glimmer 30B を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-muse-glimmer-first-touch/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
