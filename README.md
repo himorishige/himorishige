@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenJev を読んで、生成しない AI の別解を考えてみた](https://dev.classmethod.jp/articles/openjev-non-generative-ai-alternatives/)
 - [Hugging Face のモデルをそのまま学習できる NeMo AutoModel を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/nvidia-nemo-automodel-dgx-spark-first-touch/)
 - [AI エージェントの Memory を、訂正・検査・削除から考えてみた](https://dev.classmethod.jp/articles/nemohermes-memory-lifecycle/)
 - [DGX Spark の Qwen3.8 と GLM-5.3-Flash、4 構成を用途別に比べてみた](https://dev.classmethod.jp/articles/dgx-spark-single-node-flash-next-vs-glm-3bit-vs-27b/)
@@ -11,7 +12,6 @@
 - [320B の GLM-5.3-Flash を DGX Spark 1 台で動かして実用の分かれ目を測ってみた](https://dev.classmethod.jp/articles/dgx-spark-glm-5-3-flash-first-touch/)
 - [チームで coding agent を使うための AI Gateway とルーターの理想形を考えてみた](https://dev.classmethod.jp/articles/coding-agent-team-ai-gateway-ideal/)
 - [NVIDIA NeMo Relay と NeMo Switchyard を AI Gateway としてどう使うか考えてみた](https://dev.classmethod.jp/articles/nemo-relay-switchyard-ai-gateway/)
-- [NVIDIA NeMo Switchyard の prefill router の仕組みについて調べてみた](https://dev.classmethod.jp/articles/dgx-spark-switchyard-prefill-router-vs-judge/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
