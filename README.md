@@ -2,6 +2,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [画像も読める 120B の MoE「Nemotron 3.5 Super VL 120B-A12B」を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron-3-5-super-vl-first-touch/)
 - [2 ビット量子化の MoE 「Nemotron 3.5 Bolt 74B-A9B」を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron-3-5-bolt-74b-a9b-first-touch/)
 - [生成しない拡散モデル Nemotron Deciffusion 8B を DGX Spark で試してみた](https://dev.classmethod.jp/articles/nemotron-deciffusion-8b-decision-model-dgx-spark/)
 - [Qwik 2.0 RC で何が変わったのか、HTML コメントまで削った設計のこだわりを読んでみた](https://dev.classmethod.jp/articles/qwik-2-rc-changes/)
@@ -11,7 +12,6 @@
 - [OpenJev を読んで、生成しない AI の別解を考えてみた](https://dev.classmethod.jp/articles/openjev-non-generative-ai-alternatives/)
 - [Hugging Face のモデルをそのまま学習できる NeMo AutoModel を DGX Spark で動かしてみた](https://dev.classmethod.jp/articles/nvidia-nemo-automodel-dgx-spark-first-touch/)
 - [AI エージェントの Memory を、訂正・検査・削除から考えてみた](https://dev.classmethod.jp/articles/nemohermes-memory-lifecycle/)
-- [DGX Spark の Qwen3.8 と GLM-5.3-Flash、4 構成を用途別に比べてみた](https://dev.classmethod.jp/articles/dgx-spark-single-node-flash-next-vs-glm-3bit-vs-27b/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himorishige&show_icons=true&locale=en" alt="himorishige" /></p>
